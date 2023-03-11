@@ -1,0 +1,4 @@
+﻿  Chinchiro.cpp
+D:\Documents\C++\Projects\Chinchiro\Chinchiro\Chinchiro.cpp(225,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Documents\C++\Projects\Chinchiro\Chinchiro\Chinchiro.cpp(36): warning C4715: 'wager': not all control paths return a value
+  Chinchiro.vcxproj -> D:\Documents\C++\Projects\Chinchiro\x64\Debug\Chinchiro.exe
